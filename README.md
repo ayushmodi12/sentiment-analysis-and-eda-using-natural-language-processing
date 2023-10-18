@@ -1,2 +1,3 @@
-# NLP-Assignment-1
-Comments Corpus consists of the top 50 comments from each post. It is meant for EDA purposes only.
+# Sentiment Analysis and EDA on Reddit Corpus
+
+Sentiment Analysis and EDA on comments from the top posts of the subreddit r/myanmar.
